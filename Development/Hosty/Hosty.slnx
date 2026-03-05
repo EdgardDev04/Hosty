@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../src/Hosty.Application/Hosty.Application.csproj" />
+  <Project Path="../src/Hosty.Domain/Hosty.Domain.csproj" />
+  <Project Path="../src/Hosty.Infrastructure/Hosty.Infrastructure.csproj" />
+  <Project Path="../src/Hosty.WebAPI/Hosty.WebAPI.csproj" />
+</Solution>
