@@ -1,6 +1,6 @@
 ﻿namespace Hosty.Infrastructure.Persistence
 {
-    public class UnitOfWork
+    public class UnitOfWork 
     {
 
     }

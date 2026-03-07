@@ -3,10 +3,100 @@
   "WorkspaceRootPath": "D:\\C#\\PROYECTOS\\Hosty\\Development\\Hosty\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CF5D433E-0850-2974-BE20-E474AC5EE5D6}|..\\src\\Hosty.Domain\\Hosty.Domain.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.domain\\interfaces\\iguestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D433E-0850-2974-BE20-E474AC5EE5D6}|..\\src\\Hosty.Domain\\Hosty.Domain.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.domain\\valueobjects\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D433E-0850-2974-BE20-E474AC5EE5D6}|..\\src\\Hosty.Domain\\Hosty.Domain.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.domain\\interfaces\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D433E-0850-2974-BE20-E474AC5EE5D6}|..\\src\\Hosty.Domain\\Hosty.Domain.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.domain\\interfaces\\iinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D433E-0850-2974-BE20-E474AC5EE5D6}|..\\src\\Hosty.Domain\\Hosty.Domain.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.domain\\interfaces\\ihotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D433E-0850-2974-BE20-E474AC5EE5D6}|..\\src\\Hosty.Domain\\Hosty.Domain.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.domain\\enums\\staystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D433E-0850-2974-BE20-E474AC5EE5D6}|..\\src\\Hosty.Domain\\Hosty.Domain.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.domain\\enums\\roomstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D433E-0850-2974-BE20-E474AC5EE5D6}|..\\src\\Hosty.Domain\\Hosty.Domain.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.domain\\enums\\reservationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D433E-0850-2974-BE20-E474AC5EE5D6}|..\\src\\Hosty.Domain\\Hosty.Domain.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.domain\\enums\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D433E-0850-2974-BE20-E474AC5EE5D6}|..\\src\\Hosty.Domain\\Hosty.Domain.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.domain\\enums\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D433E-0850-2974-BE20-E474AC5EE5D6}|..\\src\\Hosty.Domain\\Hosty.Domain.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.domain\\enums\\invoicestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D433E-0850-2974-BE20-E474AC5EE5D6}|..\\src\\Hosty.Domain\\Hosty.Domain.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.domain\\enums\\documenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D433E-0850-2974-BE20-E474AC5EE5D6}|..\\src\\Hosty.Domain\\Hosty.Domain.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.domain\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D433E-0850-2974-BE20-E474AC5EE5D6}|..\\src\\Hosty.Domain\\Hosty.Domain.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.domain\\entities\\stay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D433E-0850-2974-BE20-E474AC5EE5D6}|..\\src\\Hosty.Domain\\Hosty.Domain.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.domain\\entities\\serviceconsumption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D433E-0850-2974-BE20-E474AC5EE5D6}|..\\src\\Hosty.Domain\\Hosty.Domain.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.domain\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D433E-0850-2974-BE20-E474AC5EE5D6}|..\\src\\Hosty.Domain\\Hosty.Domain.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.domain\\entities\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D433E-0850-2974-BE20-E474AC5EE5D6}|..\\src\\Hosty.Domain\\Hosty.Domain.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.domain\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D433E-0850-2974-BE20-E474AC5EE5D6}|..\\src\\Hosty.Domain\\Hosty.Domain.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D433E-0850-2974-BE20-E474AC5EE5D6}|..\\src\\Hosty.Domain\\Hosty.Domain.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.domain\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D433E-0850-2974-BE20-E474AC5EE5D6}|..\\src\\Hosty.Domain\\Hosty.Domain.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.domain\\entities\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D433E-0850-2974-BE20-E474AC5EE5D6}|..\\src\\Hosty.Domain\\Hosty.Domain.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.domain\\entities\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D433E-0850-2974-BE20-E474AC5EE5D6}|..\\src\\Hosty.Domain\\Hosty.Domain.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.domain\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D433E-0850-2974-BE20-E474AC5EE5D6}|..\\src\\Hosty.Domain\\Hosty.Domain.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.domain\\interfaces\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CF5D433E-0850-2974-BE20-E474AC5EE5D6}|..\\src\\Hosty.Domain\\Hosty.Domain.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CF5D433E-0850-2974-BE20-E474AC5EE5D6}|..\\src\\Hosty.Domain\\Hosty.Domain.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.domain\\interfaces\\istayrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D433E-0850-2974-BE20-E474AC5EE5D6}|..\\src\\Hosty.Domain\\Hosty.Domain.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.domain\\interfaces\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D433E-0850-2974-BE20-E474AC5EE5D6}|..\\src\\Hosty.Domain\\Hosty.Domain.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.domain\\interfaces\\iserviceconsumptionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D433E-0850-2974-BE20-E474AC5EE5D6}|..\\src\\Hosty.Domain\\Hosty.Domain.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.domain\\interfaces\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5D433E-0850-2974-BE20-E474AC5EE5D6}|..\\src\\Hosty.Domain\\Hosty.Domain.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.domain\\interfaces\\iroomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DF620F6B-C01F-5DD2-6CE9-ADBCB71310C6}|..\\src\\Hosty.Infrastructure\\Hosty.Infrastructure.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.infrastructure\\persistence\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D27A85-7B2B-E8EA-3D32-865BC0373223}|..\\src\\Hosty.WebAPI\\Hosty.WebAPI.csproj|d:\\c#\\proyectos\\hosty\\development\\src\\hosty.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,28 +111,417 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IGuestRepository.cs",
+              "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Interfaces\\IGuestRepository.cs",
+              "RelativeDocumentMoniker": "..\\src\\Hosty.Domain\\Interfaces\\IGuestRepository.cs",
+              "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Interfaces\\IGuestRepository.cs",
+              "RelativeToolTip": "..\\src\\Hosty.Domain\\Interfaces\\IGuestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:36:21.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\ValueObjects\\Address.cs",
+              "RelativeDocumentMoniker": "..\\src\\Hosty.Domain\\ValueObjects\\Address.cs",
+              "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\ValueObjects\\Address.cs",
+              "RelativeToolTip": "..\\src\\Hosty.Domain\\ValueObjects\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:39:20.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StayStatus.cs",
+              "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Enums\\StayStatus.cs",
+              "RelativeDocumentMoniker": "..\\src\\Hosty.Domain\\Enums\\StayStatus.cs",
+              "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Enums\\StayStatus.cs",
+              "RelativeToolTip": "..\\src\\Hosty.Domain\\Enums\\StayStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T16:06:13.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IHotelRepository.cs",
+              "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Interfaces\\IHotelRepository.cs",
+              "RelativeDocumentMoniker": "..\\src\\Hosty.Domain\\Interfaces\\IHotelRepository.cs",
+              "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Interfaces\\IHotelRepository.cs",
+              "RelativeToolTip": "..\\src\\Hosty.Domain\\Interfaces\\IHotelRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:36:37.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IInvoiceRepository.cs",
+              "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Interfaces\\IInvoiceRepository.cs",
+              "RelativeDocumentMoniker": "..\\src\\Hosty.Domain\\Interfaces\\IInvoiceRepository.cs",
+              "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Interfaces\\IInvoiceRepository.cs",
+              "RelativeToolTip": "..\\src\\Hosty.Domain\\Interfaces\\IInvoiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:36:55.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IReservationRepository.cs",
+              "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Interfaces\\IReservationRepository.cs",
+              "RelativeDocumentMoniker": "..\\src\\Hosty.Domain\\Interfaces\\IReservationRepository.cs",
+              "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Interfaces\\IReservationRepository.cs",
+              "RelativeToolTip": "..\\src\\Hosty.Domain\\Interfaces\\IReservationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:36:06.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoomStatus.cs",
+              "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Enums\\RoomStatus.cs",
+              "RelativeDocumentMoniker": "..\\src\\Hosty.Domain\\Enums\\RoomStatus.cs",
+              "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Enums\\RoomStatus.cs",
+              "RelativeToolTip": "..\\src\\Hosty.Domain\\Enums\\RoomStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:30:59.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReservationStatus.cs",
+              "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Enums\\ReservationStatus.cs",
+              "RelativeDocumentMoniker": "..\\src\\Hosty.Domain\\Enums\\ReservationStatus.cs",
+              "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Enums\\ReservationStatus.cs",
+              "RelativeToolTip": "..\\src\\Hosty.Domain\\Enums\\ReservationStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:31:19.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentStatus.cs",
+              "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Enums\\PaymentStatus.cs",
+              "RelativeDocumentMoniker": "..\\src\\Hosty.Domain\\Enums\\PaymentStatus.cs",
+              "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Enums\\PaymentStatus.cs",
+              "RelativeToolTip": "..\\src\\Hosty.Domain\\Enums\\PaymentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T21:00:27.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Enums\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "..\\src\\Hosty.Domain\\Enums\\PaymentMethod.cs",
+              "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Enums\\PaymentMethod.cs",
+              "RelativeToolTip": "..\\src\\Hosty.Domain\\Enums\\PaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:31:34.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InvoiceStatus.cs",
+              "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Enums\\InvoiceStatus.cs",
+              "RelativeDocumentMoniker": "..\\src\\Hosty.Domain\\Enums\\InvoiceStatus.cs",
+              "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Enums\\InvoiceStatus.cs",
+              "RelativeToolTip": "..\\src\\Hosty.Domain\\Enums\\InvoiceStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:35:33.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DocumentType.cs",
+              "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Enums\\DocumentType.cs",
+              "RelativeDocumentMoniker": "..\\src\\Hosty.Domain\\Enums\\DocumentType.cs",
+              "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Enums\\DocumentType.cs",
+              "RelativeToolTip": "..\\src\\Hosty.Domain\\Enums\\DocumentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T15:52:17.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Entities\\Reservation.cs",
+              "RelativeDocumentMoniker": "..\\src\\Hosty.Domain\\Entities\\Reservation.cs",
+              "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Entities\\Reservation.cs",
+              "RelativeToolTip": "..\\src\\Hosty.Domain\\Entities\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:29:32.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Stay.cs",
+              "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Entities\\Stay.cs",
+              "RelativeDocumentMoniker": "..\\src\\Hosty.Domain\\Entities\\Stay.cs",
+              "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Entities\\Stay.cs",
+              "RelativeToolTip": "..\\src\\Hosty.Domain\\Entities\\Stay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:29:51.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiceConsumption.cs",
+              "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Entities\\ServiceConsumption.cs",
+              "RelativeDocumentMoniker": "..\\src\\Hosty.Domain\\Entities\\ServiceConsumption.cs",
+              "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Entities\\ServiceConsumption.cs",
+              "RelativeToolTip": "..\\src\\Hosty.Domain\\Entities\\ServiceConsumption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:30:23.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Entities\\Service.cs",
+              "RelativeDocumentMoniker": "..\\src\\Hosty.Domain\\Entities\\Service.cs",
+              "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Entities\\Service.cs",
+              "RelativeToolTip": "..\\src\\Hosty.Domain\\Entities\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:30:12.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Entities\\RoomType.cs",
+              "RelativeDocumentMoniker": "..\\src\\Hosty.Domain\\Entities\\RoomType.cs",
+              "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Entities\\RoomType.cs",
+              "RelativeToolTip": "..\\src\\Hosty.Domain\\Entities\\RoomType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:29:18.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Entities\\Room.cs",
+              "RelativeDocumentMoniker": "..\\src\\Hosty.Domain\\Entities\\Room.cs",
+              "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Entities\\Room.cs",
+              "RelativeToolTip": "..\\src\\Hosty.Domain\\Entities\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:08:14.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "..\\src\\Hosty.Domain\\Entities\\Payment.cs",
+              "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Entities\\Payment.cs",
+              "RelativeToolTip": "..\\src\\Hosty.Domain\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:30:04.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Entities\\Invoice.cs",
+              "RelativeDocumentMoniker": "..\\src\\Hosty.Domain\\Entities\\Invoice.cs",
+              "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Entities\\Invoice.cs",
+              "RelativeToolTip": "..\\src\\Hosty.Domain\\Entities\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:29:59.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Entities\\Hotel.cs",
+              "RelativeDocumentMoniker": "..\\src\\Hosty.Domain\\Entities\\Hotel.cs",
+              "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Entities\\Hotel.cs",
+              "RelativeToolTip": "..\\src\\Hosty.Domain\\Entities\\Hotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:29:09.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Entities\\Guest.cs",
+              "RelativeDocumentMoniker": "..\\src\\Hosty.Domain\\Entities\\Guest.cs",
+              "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Entities\\Guest.cs",
+              "RelativeToolTip": "..\\src\\Hosty.Domain\\Entities\\Guest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:08:20.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\src\\Hosty.Domain\\Base\\BaseEntity.cs",
+              "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "..\\src\\Hosty.Domain\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T15:47:26.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IPaymentRepository.cs",
+              "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Interfaces\\IPaymentRepository.cs",
+              "RelativeDocumentMoniker": "..\\src\\Hosty.Domain\\Interfaces\\IPaymentRepository.cs",
+              "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Interfaces\\IPaymentRepository.cs",
+              "RelativeToolTip": "..\\src\\Hosty.Domain\\Interfaces\\IPaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:37:06.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Interfaces\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "..\\src\\Hosty.Domain\\Interfaces\\IUnitOfWork.cs",
               "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Interfaces\\IUnitOfWork.cs",
               "RelativeToolTip": "..\\src\\Hosty.Domain\\Interfaces\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T18:25:46.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 25,
+              "Title": "IStayRepository.cs",
+              "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Interfaces\\IStayRepository.cs",
+              "RelativeDocumentMoniker": "..\\src\\Hosty.Domain\\Interfaces\\IStayRepository.cs",
+              "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Interfaces\\IStayRepository.cs",
+              "RelativeToolTip": "..\\src\\Hosty.Domain\\Interfaces\\IStayRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:38:13.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IServiceRepository.cs",
+              "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Interfaces\\IServiceRepository.cs",
+              "RelativeDocumentMoniker": "..\\src\\Hosty.Domain\\Interfaces\\IServiceRepository.cs",
+              "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Interfaces\\IServiceRepository.cs",
+              "RelativeToolTip": "..\\src\\Hosty.Domain\\Interfaces\\IServiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:37:45.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IServiceConsumptionRepository.cs",
+              "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Interfaces\\IServiceConsumptionRepository.cs",
+              "RelativeDocumentMoniker": "..\\src\\Hosty.Domain\\Interfaces\\IServiceConsumptionRepository.cs",
+              "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Interfaces\\IServiceConsumptionRepository.cs",
+              "RelativeToolTip": "..\\src\\Hosty.Domain\\Interfaces\\IServiceConsumptionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:38:00.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Interfaces\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "..\\src\\Hosty.Domain\\Interfaces\\IRoomRepository.cs",
+              "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Interfaces\\IRoomRepository.cs",
+              "RelativeToolTip": "..\\src\\Hosty.Domain\\Interfaces\\IRoomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:36:14.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IRoomTypeRepository.cs",
+              "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Interfaces\\IRoomTypeRepository.cs",
+              "RelativeDocumentMoniker": "..\\src\\Hosty.Domain\\Interfaces\\IRoomTypeRepository.cs",
+              "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Domain\\Interfaces\\IRoomTypeRepository.cs",
+              "RelativeToolTip": "..\\src\\Hosty.Domain\\Interfaces\\IRoomTypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:37:26.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Infrastructure\\Persistence\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "..\\src\\Hosty.Infrastructure\\Persistence\\UnitOfWork.cs",
               "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.Infrastructure\\Persistence\\UnitOfWork.cs",
               "RelativeToolTip": "..\\src\\Hosty.Infrastructure\\Persistence\\UnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T18:25:36.469Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\src\\Hosty.WebAPI\\Program.cs",
+              "ToolTip": "D:\\C#\\PROYECTOS\\Hosty\\Development\\src\\Hosty.WebAPI\\Program.cs",
+              "RelativeToolTip": "..\\src\\Hosty.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T18:34:47.815Z"
             }
           ]
         }
